@@ -1,0 +1,4 @@
+-- Uma linha
+--[[ 
+  Várias Linhas 
+]]
